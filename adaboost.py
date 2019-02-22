@@ -2,16 +2,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-"""
-Author:
-	Jack Cui
-Blog:
-    http://blog.csdn.net/c406495762
-Zhihu:
-    https://www.zhihu.com/people/Jack--Cui/
-Modify:
-	2017-10-10
-"""
+
 
 def loadSimpData():
 	"""
